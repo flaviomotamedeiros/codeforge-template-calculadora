@@ -1,0 +1,1 @@
+# Sem dependências externas — a calculadora usa apenas a stdlib Python
